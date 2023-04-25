@@ -6,3 +6,15 @@
 body{
     background-image: url(https://www.fundaciontelefonica.com/wp-content/uploads/2022/09/portada-dia-programador-2560x950-1.jpg);
 }
+main{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+body{
+    font-size: 16px;
+    line-height: 1.5;
+    
+}
